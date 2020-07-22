@@ -6,14 +6,14 @@ Ubiquiti Unifi device type templates for NetBox
 
 Add manufacturer to NetBox, before importing the template.
 
-Disclaimer: For the import templates to work, the name has to be *Ubiquiti Inc*.
+Disclaimer: For the import templates to work, the name has to be *Ubiquiti*.
 
 ### Manual way
 
 Go to *Menu > Devices > Manufacturers* and press **Add**
 
 Set follow values:
-* **Name** value to *Ubiquiti Inc*
+* **Name** value to *Ubiquiti*
 * **Slug** value to *ubiquiti*
 
 Press **Create**
@@ -25,7 +25,7 @@ Go to *Menu > Devices > Manufacturers* and press **Import**
 Paste in following input:
 ```
 name,slug
-Ubiqiti Inc,ubiqiti
+Ubiqiti,ubiqiti
 ```
 
 Press **Submit**

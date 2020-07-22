@@ -1,10 +1,9 @@
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AC In-Wall
 slug: unifi-ac-in-wall
 part_number: UAP-AC-IW
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: LAN 1
@@ -14,13 +13,12 @@ interfaces:
 - name: Rear port 1
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AC In-Wall Pro
 slug: unifi-ac-in-wall-pro
 part_number: UAP-AC-IW-PRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: LAN 1
@@ -30,13 +28,12 @@ interfaces:
 - name: Rear port 1
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC EDU
 slug: unifi-ap-ac-edu
 part_number: UAP-AC-EDU
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -44,13 +41,12 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC HD
 slug: unifi-ap-ac-hd
 part_number: UAP-AC-HD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -58,37 +54,34 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC Lite
 slug: unifi-ap-ac-lite
 part_number: UAP-AC-LITE
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC LR
 slug: unifi-ap-ac-lr
 part_number: UAP-AC-LR
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC Pro
 slug: unifi-ap-ac-pro
 part_number: UAP-AC-PRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -96,13 +89,12 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP AC SHD
 slug: unifi-ap-ac-shd
 part_number: UAP-AC-SHD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -110,46 +102,42 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP Beacon HD
 slug: unifi-ap-beacon-hd
 part_number: UAP-BeaconHD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP (legacy)
 slug: unifi-ap
 part_number: UAP
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP Long-Range (legacy)
 slug: unifi-ap-long-range
 part_number: UAP-LR
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP Outdoor 5 (legacy)
 slug: unifi-ap-outdoor-5
 part_number: UAP-Outdoor5
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -157,13 +145,12 @@ interfaces:
 - name: '2'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP Outdoor+ (legacy)
 slug: unifi-ap-outdoor
 part_number: UAP-Outdoor+
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -171,13 +158,12 @@ interfaces:
 - name: '2'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP PRO (legacy)
 slug: unifi-ap-pro
 part_number: UAP-PRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -185,13 +171,12 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi AP XG
 slug: unifi-ap-xg
 part_number: UAP-XG
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -199,49 +184,45 @@ interfaces:
 - name: '2'
   type: 10gbase-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Cloud Key
 slug: unifi-cloud-key
 part_number: UC-CK
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Cloud Key Gen2
 slug: unifi-cloud-key-gen2
 part_number: UCK-G2
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Cloud Key Gen2 Plus
 slug: unifi-cloud-key-gen2-plus
 part_number: UCK-G2-PLUS
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Dream Machine
 slug: unifi-dream-machine
 part_number: UDM
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -260,13 +241,12 @@ interfaces:
 - name: WAN 1
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Dream Machine Pro
 slug: unifi-dream-machine-pro
 part_number: UDM-Pro
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -301,25 +281,23 @@ interfaces:
 - name: WAN 2 (SFP+)
   type: 10gbase-x-sfpp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Flex HD
 slug: unifi-flex-hd
 part_number: UAP-FlexHD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi HD In-Wall
 slug: unifi-hd-in-wall
 part_number: UAP-IW-HD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: LAN 1
@@ -333,13 +311,12 @@ interfaces:
 - name: Rear port 1
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Industrial Switch
 slug: unifi-industrial-switch
 part_number: USW-Industrial
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -368,13 +345,12 @@ interfaces:
 - name: '10'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi LTE
 slug: unifi-lte
 part_number: U-LTE
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -382,37 +358,34 @@ interfaces:
 - name: '2'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi nanoHD
 slug: unifi-nanohd
 part_number: UAP-nanoHD
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi NVR
 slug: unifi-nvr
 part_number: UVC-NVR-2TB
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Protect Network Video Recorder
 slug: unifi-protect-network-video-recorder
 part_number: UNVR
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -429,13 +402,28 @@ interfaces:
 - name: '2'
   type: 10gbase-x-sfpp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
+model: UniFi Redundant Power System
+slug: unifi-redundant-power-system
+part_number: USP-RPS
+u_height: 1
+is_full_depth: true
+comments: ''
+power-ports:
+- name: Supply
+  type: iec-60320-c14
+  maximum_draw: 995
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+---
+manufacturer: Ubiquiti
 model: UniFi Security Gateway
 slug: unifi-security-gateway
 part_number: USG
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -448,13 +436,12 @@ interfaces:
 - name: WAN 2 / LAN 2
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Security Gateway Pro 4
 slug: unifi-security-gateway-pro-4
 part_number: USG-PRO-4
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -478,13 +465,12 @@ interfaces:
 - name: WAN2
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 16-150W
 slug: unifi-switch-16-150w
 part_number: US-16-150W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -532,13 +518,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 16 PoE Gen2
 slug: unifi-switch-16-poe-gen2
 part_number: USW-16-POE
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -583,13 +568,12 @@ interfaces:
 - name: '18'
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 16 XG
 slug: unifi-switch-16-xg
 part_number: US-16-XG
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -633,13 +617,12 @@ interfaces:
 - name: '16'
   type: 10gbase-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 24
 slug: unifi-switch-24
 part_number: US-24
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -703,13 +686,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 24 PoE Gen2
 slug: unifi-switch-24-poe-gen2
 part_number: USW-24-POE
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -770,13 +752,12 @@ interfaces:
 - name: '26'
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 48
 slug: unifi-switch-48
 part_number: US-48
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -892,13 +873,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 48 PoE Gen2
 slug: unifi-switch-48-poe-gen2
 part_number: USW-48-POE
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1011,13 +991,12 @@ interfaces:
 - name: '52'
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 8
 slug: unifi-switch-8
 part_number: US-8
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1042,13 +1021,12 @@ interfaces:
 - name: '8'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 8-150W
 slug: unifi-switch-8-150w
 part_number: US-8-150W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1077,13 +1055,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch 8-60W
 slug: unifi-switch-8-60w
 part_number: US-8-60W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1108,13 +1085,12 @@ interfaces:
 - name: '8'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch Flex
 slug: unifi-switch-flex
 part_number: USW-Flex
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -1128,13 +1104,12 @@ interfaces:
 - name: '5'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch Flex Mini
 slug: unifi-switch-flex-mini
 part_number: USW-Flex-Mini
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: 1 (PoE IN)
@@ -1148,13 +1123,58 @@ interfaces:
 - name: '5'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
+model: UniFi Switch Lite 16 PoE
+slug: unifi-switch-lite-16-poe
+part_number: USW-Lite-16-POE
+u_height: 1
+is_full_depth: false
+comments: ''
+power-ports:
+- name: Supply
+  type: iec-60320-c14
+  maximum_draw: 15
+  allocated_draw: null
+interfaces:
+- name: 1 (PoE)
+  type: 1000base-t
+- name: 2 (PoE)
+  type: 1000base-t
+- name: 3 (PoE)
+  type: 1000base-t
+- name: 4 (PoE)
+  type: 1000base-t
+- name: 5 (PoE)
+  type: 1000base-t
+- name: 6 (PoE)
+  type: 1000base-t
+- name: 7 (PoE)
+  type: 1000base-t
+- name: 8 (PoE)
+  type: 1000base-t
+- name: '9'
+  type: 1000base-t
+- name: '10'
+  type: 1000base-t
+- name: '11'
+  type: 1000base-t
+- name: '12'
+  type: 1000base-t
+- name: '13'
+  type: 1000base-t
+- name: '14'
+  type: 1000base-t
+- name: '15'
+  type: 1000base-t
+- name: '16'
+  type: 1000base-t
+---
+manufacturer: Ubiquiti
 model: UniFi Switch PoE 24-250W
 slug: unifi-switch-poe-24-250w
 part_number: US-24-250W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -1218,13 +1238,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch PoE 24-500W
 slug: unifi-switch-poe-24-500w
 part_number: US-24-500W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -1288,13 +1307,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch PoE 48-500W
 slug: unifi-switch-poe-48-500w
 part_number: US-48-500W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -1410,13 +1428,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch PoE 48-750W
 slug: unifi-switch-poe-48-750w
 part_number: US-48-750W
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -1532,13 +1549,12 @@ interfaces:
 - name: SFP2
   type: 1000base-x-sfp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch Pro 24 PoE Gen2
 slug: unifi-switch-pro-24-poe-gen2
 part_number: USW-Pro-24-POE
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1603,13 +1619,12 @@ interfaces:
 - name: '26'
   type: 10gbase-x-sfpp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch Pro 48 PoE Gen2
 slug: unifi-switch-pro-48-poe-gen2
 part_number: USW-Pro-48-POE
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 power-ports:
 - name: PS
@@ -1726,13 +1741,12 @@ interfaces:
 - name: '52'
   type: 10gbase-x-sfpp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Switch XG 6PoE
 slug: unifi-switch-xg-6poe
 part_number: US-XG-6POE
 u_height: 1
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: console
@@ -1751,112 +1765,102 @@ interfaces:
 - name: '6'
   type: 10gbase-x-sfpp
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3
 slug: unifi-video-camera-g3
 part_number: UVC-G3
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 AF
 slug: unifi-video-camera-g3-af
 part_number: UVC-G3-AF
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 Bullet
 slug: unifi-video-camera-g3-bullet
 part_number: UVC-G3-BULLET
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 Dome
 slug: unifi-video-camera-g3-dome
 part_number: UVC-G3-DOME
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 FLEX
 slug: unifi-video-camera-g3-flex
 part_number: UVC-G3-FLEX
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 Micro
 slug: unifi-video-camera-g3-micro
 part_number: UVC-G3-MICRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G3 PRO
 slug: unifi-video-camera-g3-pro
 part_number: UVC-G3-PRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G4 Bullet
 slug: unifi-video-camera-g4-bullet
 part_number: UVC-G4-BULLET
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi Video Camera G4 PRO
 slug: unifi-video-camera-g4-pro
 part_number: UVC-G4-PRO
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi WiFi BaseStation XG
 slug: unifi-wifi-basestation-xg
 part_number: UWB-XG
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -1864,13 +1868,12 @@ interfaces:
 - name: '2'
   type: 10gbase-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi WiFi BaseStation XG Black
 slug: unifi-wifi-basestation-xg-black
 part_number: UWB-XG-BK
 u_height: 0
 is_full_depth: false
-subdevice_role: ''
 comments: ''
 interfaces:
 - name: '1'
@@ -1878,13 +1881,12 @@ interfaces:
 - name: '2'
   type: 10gbase-t
 ---
-manufacturer: Ubiquiti Inc
+manufacturer: Ubiquiti
 model: UniFi XG Server
 slug: unifi-xg-server
 part_number: UAS-XG
 u_height: 1
 is_full_depth: true
-subdevice_role: ''
 comments: ''
 console-ports:
 - name: USB1 (3.0 back)
