@@ -34,7 +34,7 @@ Press **Submit**
 
 Go to *Menu > Devices > Device Types* and press **Import**
 
-Copy the content of netbox_ubiquiti_devicetypes.yaml file and paste it into **Data** textfield.
+Copy the content of [netbox_ubiquiti_devicetypes.yaml](netbox_ubiquiti_devicetypes.yaml) file and paste it into **Data** textfield.
 
 Select *YAML* as **Format** (should be default).
 
