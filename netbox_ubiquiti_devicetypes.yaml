@@ -9,13 +9,10 @@ comments: ''
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 2
   type: 1000base-t
-  mgmt_only: false
 - name: Rear port 1
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AC In-Wall Pro
@@ -28,13 +25,10 @@ comments: ''
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 2
   type: 1000base-t
-  mgmt_only: false
 - name: Rear port 1
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC EDU
@@ -47,10 +41,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC HD
@@ -63,10 +55,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC Lite
@@ -79,7 +69,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC LR
@@ -92,7 +81,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC Pro
@@ -105,10 +93,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP AC SHD
@@ -121,10 +107,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP Beacon HD
@@ -146,7 +130,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP Long-Range (legacy)
@@ -159,7 +142,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP Outdoor 5 (legacy)
@@ -172,10 +154,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 - name: '2'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP Outdoor+ (legacy)
@@ -188,10 +168,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 - name: '2'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP PRO (legacy)
@@ -204,10 +182,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi AP XG
@@ -220,10 +196,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 10gbase-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Cloud Key
@@ -236,7 +210,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Cloud Key Gen2
@@ -249,7 +222,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Cloud Key Gen2 Plus
@@ -262,7 +234,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Dream Machine
@@ -280,19 +251,14 @@ power-ports:
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 2
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 3
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 4
   type: 1000base-t
-  mgmt_only: false
 - name: WAN 1
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Dream Machine Pro
@@ -314,37 +280,26 @@ power-ports:
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 2
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 3
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 4
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 5
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 6
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 7
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 8
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 9 (SFP+)
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: WAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: WAN 2 (SFP+)
   type: 10gbase-x-sfpp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Flex HD
@@ -357,7 +312,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi HD In-Wall
@@ -370,19 +324,14 @@ comments: ''
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 2
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 3
   type: 1000base-t
-  mgmt_only: false
 - name: LAN 4
   type: 1000base-t
-  mgmt_only: false
 - name: Rear port 1
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Industrial Switch
@@ -400,34 +349,24 @@ power-ports:
 interfaces:
 - name: 1 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 2 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 3 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 4 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 5 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 6 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 7 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: 8 (PoE)
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi LTE
@@ -440,10 +379,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi nanoHD
@@ -456,7 +393,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi NVR
@@ -469,7 +405,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Protect Network Video Recorder
@@ -491,10 +426,8 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Security Gateway
@@ -510,13 +443,10 @@ console-ports:
 interfaces:
 - name: LAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: WAN 1
   type: 1000base-t
-  mgmt_only: false
 - name: WAN 2 / LAN 2
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Security Gateway Pro 4
@@ -537,22 +467,16 @@ power-ports:
 interfaces:
 - name: LAN1
   type: 1000base-t
-  mgmt_only: false
 - name: LAN2
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: WAN1
   type: 1000base-t
-  mgmt_only: false
 - name: WAN2
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 16-150W
@@ -573,58 +497,40 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 16 PoE Gen2
@@ -642,58 +548,40 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: '18'
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 16 XG
@@ -714,52 +602,36 @@ power-ports:
 interfaces:
 - name: '1'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '2'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '3'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '4'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '5'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '6'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '7'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '8'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '9'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '10'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '11'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '12'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '13'
   type: 10gbase-t
-  mgmt_only: false
 - name: '14'
   type: 10gbase-t
-  mgmt_only: false
 - name: '15'
   type: 10gbase-t
-  mgmt_only: false
 - name: '16'
   type: 10gbase-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 24
@@ -780,82 +652,56 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 24 PoE Gen2
@@ -873,82 +719,56 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: '26'
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 48
@@ -969,160 +789,108 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-t
-  mgmt_only: false
 - name: '26'
   type: 1000base-t
-  mgmt_only: false
 - name: '27'
   type: 1000base-t
-  mgmt_only: false
 - name: '28'
   type: 1000base-t
-  mgmt_only: false
 - name: '29'
   type: 1000base-t
-  mgmt_only: false
 - name: '30'
   type: 1000base-t
-  mgmt_only: false
 - name: '31'
   type: 1000base-t
-  mgmt_only: false
 - name: '32'
   type: 1000base-t
-  mgmt_only: false
 - name: '33'
   type: 1000base-t
-  mgmt_only: false
 - name: '34'
   type: 1000base-t
-  mgmt_only: false
 - name: '35'
   type: 1000base-t
-  mgmt_only: false
 - name: '36'
   type: 1000base-t
-  mgmt_only: false
 - name: '37'
   type: 1000base-t
-  mgmt_only: false
 - name: '38'
   type: 1000base-t
-  mgmt_only: false
 - name: '39'
   type: 1000base-t
-  mgmt_only: false
 - name: '40'
   type: 1000base-t
-  mgmt_only: false
 - name: '41'
   type: 1000base-t
-  mgmt_only: false
 - name: '42'
   type: 1000base-t
-  mgmt_only: false
 - name: '43'
   type: 1000base-t
-  mgmt_only: false
 - name: '44'
   type: 1000base-t
-  mgmt_only: false
 - name: '45'
   type: 1000base-t
-  mgmt_only: false
 - name: '46'
   type: 1000base-t
-  mgmt_only: false
 - name: '47'
   type: 1000base-t
-  mgmt_only: false
 - name: '48'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP+1
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP+2
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 48 PoE Gen2
@@ -1140,160 +908,108 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-t
-  mgmt_only: false
 - name: '26'
   type: 1000base-t
-  mgmt_only: false
 - name: '27'
   type: 1000base-t
-  mgmt_only: false
 - name: '28'
   type: 1000base-t
-  mgmt_only: false
 - name: '29'
   type: 1000base-t
-  mgmt_only: false
 - name: '30'
   type: 1000base-t
-  mgmt_only: false
 - name: '31'
   type: 1000base-t
-  mgmt_only: false
 - name: '32'
   type: 1000base-t
-  mgmt_only: false
 - name: '33'
   type: 1000base-t
-  mgmt_only: false
 - name: '34'
   type: 1000base-t
-  mgmt_only: false
 - name: '35'
   type: 1000base-t
-  mgmt_only: false
 - name: '36'
   type: 1000base-t
-  mgmt_only: false
 - name: '37'
   type: 1000base-t
-  mgmt_only: false
 - name: '38'
   type: 1000base-t
-  mgmt_only: false
 - name: '39'
   type: 1000base-t
-  mgmt_only: false
 - name: '40'
   type: 1000base-t
-  mgmt_only: false
 - name: '41'
   type: 1000base-t
-  mgmt_only: false
 - name: '42'
   type: 1000base-t
-  mgmt_only: false
 - name: '43'
   type: 1000base-t
-  mgmt_only: false
 - name: '44'
   type: 1000base-t
-  mgmt_only: false
 - name: '45'
   type: 1000base-t
-  mgmt_only: false
 - name: '46'
   type: 1000base-t
-  mgmt_only: false
 - name: '47'
   type: 1000base-t
-  mgmt_only: false
 - name: '48'
   type: 1000base-t
-  mgmt_only: false
 - name: '49'
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: '50'
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: '51'
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: '52'
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 8
@@ -1311,28 +1027,20 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 8-150W
@@ -1350,34 +1058,24 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch 8-60W
@@ -1395,28 +1093,20 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch Flex
@@ -1429,19 +1119,14 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch Flex Mini
@@ -1454,19 +1139,14 @@ comments: ''
 interfaces:
 - name: 1 (PoE IN)
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch PoE 24-250W
@@ -1487,82 +1167,56 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch PoE 24-500W
@@ -1583,82 +1237,56 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch PoE 48-500W
@@ -1679,160 +1307,108 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-t
-  mgmt_only: false
 - name: '26'
   type: 1000base-t
-  mgmt_only: false
 - name: '27'
   type: 1000base-t
-  mgmt_only: false
 - name: '28'
   type: 1000base-t
-  mgmt_only: false
 - name: '29'
   type: 1000base-t
-  mgmt_only: false
 - name: '30'
   type: 1000base-t
-  mgmt_only: false
 - name: '31'
   type: 1000base-t
-  mgmt_only: false
 - name: '32'
   type: 1000base-t
-  mgmt_only: false
 - name: '33'
   type: 1000base-t
-  mgmt_only: false
 - name: '34'
   type: 1000base-t
-  mgmt_only: false
 - name: '35'
   type: 1000base-t
-  mgmt_only: false
 - name: '36'
   type: 1000base-t
-  mgmt_only: false
 - name: '37'
   type: 1000base-t
-  mgmt_only: false
 - name: '38'
   type: 1000base-t
-  mgmt_only: false
 - name: '39'
   type: 1000base-t
-  mgmt_only: false
 - name: '40'
   type: 1000base-t
-  mgmt_only: false
 - name: '41'
   type: 1000base-t
-  mgmt_only: false
 - name: '42'
   type: 1000base-t
-  mgmt_only: false
 - name: '43'
   type: 1000base-t
-  mgmt_only: false
 - name: '44'
   type: 1000base-t
-  mgmt_only: false
 - name: '45'
   type: 1000base-t
-  mgmt_only: false
 - name: '46'
   type: 1000base-t
-  mgmt_only: false
 - name: '47'
   type: 1000base-t
-  mgmt_only: false
 - name: '48'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP+1
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP+2
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch PoE 48-750W
@@ -1853,160 +1429,108 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-t
-  mgmt_only: false
 - name: '26'
   type: 1000base-t
-  mgmt_only: false
 - name: '27'
   type: 1000base-t
-  mgmt_only: false
 - name: '28'
   type: 1000base-t
-  mgmt_only: false
 - name: '29'
   type: 1000base-t
-  mgmt_only: false
 - name: '30'
   type: 1000base-t
-  mgmt_only: false
 - name: '31'
   type: 1000base-t
-  mgmt_only: false
 - name: '32'
   type: 1000base-t
-  mgmt_only: false
 - name: '33'
   type: 1000base-t
-  mgmt_only: false
 - name: '34'
   type: 1000base-t
-  mgmt_only: false
 - name: '35'
   type: 1000base-t
-  mgmt_only: false
 - name: '36'
   type: 1000base-t
-  mgmt_only: false
 - name: '37'
   type: 1000base-t
-  mgmt_only: false
 - name: '38'
   type: 1000base-t
-  mgmt_only: false
 - name: '39'
   type: 1000base-t
-  mgmt_only: false
 - name: '40'
   type: 1000base-t
-  mgmt_only: false
 - name: '41'
   type: 1000base-t
-  mgmt_only: false
 - name: '42'
   type: 1000base-t
-  mgmt_only: false
 - name: '43'
   type: 1000base-t
-  mgmt_only: false
 - name: '44'
   type: 1000base-t
-  mgmt_only: false
 - name: '45'
   type: 1000base-t
-  mgmt_only: false
 - name: '46'
   type: 1000base-t
-  mgmt_only: false
 - name: '47'
   type: 1000base-t
-  mgmt_only: false
 - name: '48'
   type: 1000base-t
-  mgmt_only: false
 - name: SFP+1
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP1
   type: 1000base-x-sfp
-  mgmt_only: false
 - name: SFP+2
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: SFP2
   type: 1000base-x-sfp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch Pro 24 PoE Gen2
@@ -2028,82 +1552,56 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '26'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch Pro 48 PoE Gen2
@@ -2125,160 +1623,108 @@ power-ports:
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 1000base-t
-  mgmt_only: false
 - name: '3'
   type: 1000base-t
-  mgmt_only: false
 - name: '4'
   type: 1000base-t
-  mgmt_only: false
 - name: '5'
   type: 1000base-t
-  mgmt_only: false
 - name: '6'
   type: 1000base-t
-  mgmt_only: false
 - name: '7'
   type: 1000base-t
-  mgmt_only: false
 - name: '8'
   type: 1000base-t
-  mgmt_only: false
 - name: '9'
   type: 1000base-t
-  mgmt_only: false
 - name: '10'
   type: 1000base-t
-  mgmt_only: false
 - name: '11'
   type: 1000base-t
-  mgmt_only: false
 - name: '12'
   type: 1000base-t
-  mgmt_only: false
 - name: '13'
   type: 1000base-t
-  mgmt_only: false
 - name: '14'
   type: 1000base-t
-  mgmt_only: false
 - name: '15'
   type: 1000base-t
-  mgmt_only: false
 - name: '16'
   type: 1000base-t
-  mgmt_only: false
 - name: '17'
   type: 1000base-t
-  mgmt_only: false
 - name: '18'
   type: 1000base-t
-  mgmt_only: false
 - name: '19'
   type: 1000base-t
-  mgmt_only: false
 - name: '20'
   type: 1000base-t
-  mgmt_only: false
 - name: '21'
   type: 1000base-t
-  mgmt_only: false
 - name: '22'
   type: 1000base-t
-  mgmt_only: false
 - name: '23'
   type: 1000base-t
-  mgmt_only: false
 - name: '24'
   type: 1000base-t
-  mgmt_only: false
 - name: '25'
   type: 1000base-t
-  mgmt_only: false
 - name: '26'
   type: 1000base-t
-  mgmt_only: false
 - name: '27'
   type: 1000base-t
-  mgmt_only: false
 - name: '28'
   type: 1000base-t
-  mgmt_only: false
 - name: '29'
   type: 1000base-t
-  mgmt_only: false
 - name: '30'
   type: 1000base-t
-  mgmt_only: false
 - name: '31'
   type: 1000base-t
-  mgmt_only: false
 - name: '32'
   type: 1000base-t
-  mgmt_only: false
 - name: '33'
   type: 1000base-t
-  mgmt_only: false
 - name: '34'
   type: 1000base-t
-  mgmt_only: false
 - name: '35'
   type: 1000base-t
-  mgmt_only: false
 - name: '36'
   type: 1000base-t
-  mgmt_only: false
 - name: '37'
   type: 1000base-t
-  mgmt_only: false
 - name: '38'
   type: 1000base-t
-  mgmt_only: false
 - name: '39'
   type: 1000base-t
-  mgmt_only: false
 - name: '40'
   type: 1000base-t
-  mgmt_only: false
 - name: '41'
   type: 1000base-t
-  mgmt_only: false
 - name: '42'
   type: 1000base-t
-  mgmt_only: false
 - name: '43'
   type: 1000base-t
-  mgmt_only: false
 - name: '44'
   type: 1000base-t
-  mgmt_only: false
 - name: '45'
   type: 1000base-t
-  mgmt_only: false
 - name: '46'
   type: 1000base-t
-  mgmt_only: false
 - name: '47'
   type: 1000base-t
-  mgmt_only: false
 - name: '48'
   type: 1000base-t
-  mgmt_only: false
 - name: '49'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '50'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '51'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '52'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Switch XG 6PoE
@@ -2294,22 +1740,16 @@ console-ports:
 interfaces:
 - name: '1'
   type: 10gbase-t
-  mgmt_only: false
 - name: '2'
   type: 10gbase-t
-  mgmt_only: false
 - name: '3'
   type: 10gbase-t
-  mgmt_only: false
 - name: '4'
   type: 10gbase-t
-  mgmt_only: false
 - name: '5'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 - name: '6'
   type: 10gbase-x-sfpp
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G3
@@ -2322,7 +1762,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G3 AF
@@ -2335,7 +1774,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G3 Bullet
@@ -2348,7 +1786,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G3 Dome
@@ -2361,7 +1798,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G3 FLEX
@@ -2392,7 +1828,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 100base-tx
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi Video Camera G4 Bullet
@@ -2414,7 +1849,6 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi WiFi BaseStation XG
@@ -2427,10 +1861,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 10gbase-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi WiFi BaseStation XG Black
@@ -2443,10 +1875,8 @@ comments: ''
 interfaces:
 - name: '1'
   type: 1000base-t
-  mgmt_only: false
 - name: '2'
   type: 10gbase-t
-  mgmt_only: false
 ---
 manufacturer: Ubiquiti Inc
 model: UniFi XG Server
@@ -2473,10 +1903,7 @@ power-ports:
 interfaces:
 - name: IPMI
   type: 1000base-t
-  mgmt_only: false
 - name: LAN1
   type: 10gbase-t
-  mgmt_only: false
 - name: LAN2
   type: 10gbase-t
-  mgmt_only: false
