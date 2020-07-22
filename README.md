@@ -2,7 +2,7 @@
 
 Ubiquiti Unifi device type templates for NetBox
 
-Note: Templates in this repo have been merged over to [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library/tree/master/device-types/Ubiquiti) repo as well.
+Note: Most templates in this repo have been merged over to [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library/tree/master/device-types/Ubiquiti) repo as well.
 
 ## Prequesition
 
