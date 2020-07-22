@@ -1,0 +1,2482 @@
+manufacturer: Ubiquiti Inc
+model: UniFi AC In-Wall
+slug: unifi-ac-in-wall
+part_number: UAP-AC-IW
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 2
+  type: 1000base-t
+  mgmt_only: false
+- name: Rear port 1
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AC In-Wall Pro
+slug: unifi-ac-in-wall-pro
+part_number: UAP-AC-IW-PRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 2
+  type: 1000base-t
+  mgmt_only: false
+- name: Rear port 1
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC EDU
+slug: unifi-ap-ac-edu
+part_number: UAP-AC-EDU
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC HD
+slug: unifi-ap-ac-hd
+part_number: UAP-AC-HD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC Lite
+slug: unifi-ap-ac-lite
+part_number: UAP-AC-LITE
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC LR
+slug: unifi-ap-ac-lr
+part_number: UAP-AC-LR
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC Pro
+slug: unifi-ap-ac-pro
+part_number: UAP-AC-PRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP AC SHD
+slug: unifi-ap-ac-shd
+part_number: UAP-AC-SHD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP Beacon HD
+slug: unifi-ap-beacon-hd
+part_number: UAP-BeaconHD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP (legacy)
+slug: unifi-ap
+part_number: UAP
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP Long-Range (legacy)
+slug: unifi-ap-long-range
+part_number: UAP-LR
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP Outdoor 5 (legacy)
+slug: unifi-ap-outdoor-5
+part_number: UAP-Outdoor5
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+- name: '2'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP Outdoor+ (legacy)
+slug: unifi-ap-outdoor
+part_number: UAP-Outdoor+
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+- name: '2'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP PRO (legacy)
+slug: unifi-ap-pro
+part_number: UAP-PRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi AP XG
+slug: unifi-ap-xg
+part_number: UAP-XG
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Cloud Key
+slug: unifi-cloud-key
+part_number: UC-CK
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Cloud Key Gen2
+slug: unifi-cloud-key-gen2
+part_number: UCK-G2
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Cloud Key Gen2 Plus
+slug: unifi-cloud-key-gen2-plus
+part_number: UCK-G2-PLUS
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Dream Machine
+slug: unifi-dream-machine
+part_number: UDM
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c8
+  maximum_draw: 26
+  allocated_draw: null
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 2
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 3
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 4
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN 1
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Dream Machine Pro
+slug: unifi-dream-machine-pro
+part_number: UDM-Pro
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 50
+  allocated_draw: 33
+- name: RPS
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 2
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 3
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 4
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 5
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 6
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 7
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 8
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 9 (SFP+)
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: WAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN 2 (SFP+)
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Flex HD
+slug: unifi-flex-hd
+part_number: UAP-FlexHD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi HD In-Wall
+slug: unifi-hd-in-wall
+part_number: UAP-IW-HD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 2
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 3
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN 4
+  type: 1000base-t
+  mgmt_only: false
+- name: Rear port 1
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Industrial Switch
+slug: unifi-industrial-switch
+part_number: USW-Industrial
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 450
+  allocated_draw: 20
+interfaces:
+- name: 1 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 2 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 3 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 4 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 5 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 6 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 7 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: 8 (PoE)
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi LTE
+slug: unifi-lte
+part_number: U-LTE
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi nanoHD
+slug: unifi-nanohd
+part_number: UAP-nanoHD
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi NVR
+slug: unifi-nvr
+part_number: UVC-NVR-2TB
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Protect Network Video Recorder
+slug: unifi-protect-network-video-recorder
+part_number: UNVR
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 100
+  allocated_draw: null
+- name: RPS
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Security Gateway
+slug: unifi-security-gateway
+part_number: USG
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN 1
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN 2 / LAN 2
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Security Gateway Pro 4
+slug: unifi-security-gateway-pro-4
+part_number: USG-PRO-4
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c6
+  maximum_draw: 40
+  allocated_draw: null
+interfaces:
+- name: LAN1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN2
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: WAN1
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN2
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 16-150W
+slug: unifi-switch-16-150w
+part_number: US-16-150W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 150
+  allocated_draw: 28
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 16 PoE Gen2
+slug: unifi-switch-16-poe-gen2
+part_number: USW-16-POE
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 60
+  allocated_draw: 18
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: '18'
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 16 XG
+slug: unifi-switch-16-xg
+part_number: US-16-XG
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 56
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '3'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '4'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '5'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '6'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '7'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '8'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '9'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '10'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '11'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '12'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '13'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '14'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '15'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '16'
+  type: 10gbase-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 24
+slug: unifi-switch-24
+part_number: US-24
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 25
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 24 PoE Gen2
+slug: unifi-switch-24-poe-gen2
+part_number: USW-24-POE
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 120
+  allocated_draw: 25
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: '26'
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 48
+slug: unifi-switch-48
+part_number: US-48
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 56
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-t
+  mgmt_only: false
+- name: '26'
+  type: 1000base-t
+  mgmt_only: false
+- name: '27'
+  type: 1000base-t
+  mgmt_only: false
+- name: '28'
+  type: 1000base-t
+  mgmt_only: false
+- name: '29'
+  type: 1000base-t
+  mgmt_only: false
+- name: '30'
+  type: 1000base-t
+  mgmt_only: false
+- name: '31'
+  type: 1000base-t
+  mgmt_only: false
+- name: '32'
+  type: 1000base-t
+  mgmt_only: false
+- name: '33'
+  type: 1000base-t
+  mgmt_only: false
+- name: '34'
+  type: 1000base-t
+  mgmt_only: false
+- name: '35'
+  type: 1000base-t
+  mgmt_only: false
+- name: '36'
+  type: 1000base-t
+  mgmt_only: false
+- name: '37'
+  type: 1000base-t
+  mgmt_only: false
+- name: '38'
+  type: 1000base-t
+  mgmt_only: false
+- name: '39'
+  type: 1000base-t
+  mgmt_only: false
+- name: '40'
+  type: 1000base-t
+  mgmt_only: false
+- name: '41'
+  type: 1000base-t
+  mgmt_only: false
+- name: '42'
+  type: 1000base-t
+  mgmt_only: false
+- name: '43'
+  type: 1000base-t
+  mgmt_only: false
+- name: '44'
+  type: 1000base-t
+  mgmt_only: false
+- name: '45'
+  type: 1000base-t
+  mgmt_only: false
+- name: '46'
+  type: 1000base-t
+  mgmt_only: false
+- name: '47'
+  type: 1000base-t
+  mgmt_only: false
+- name: '48'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP+1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP+2
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 48 PoE Gen2
+slug: unifi-switch-48-poe-gen2
+part_number: USW-48-POE
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 240
+  allocated_draw: 48
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-t
+  mgmt_only: false
+- name: '26'
+  type: 1000base-t
+  mgmt_only: false
+- name: '27'
+  type: 1000base-t
+  mgmt_only: false
+- name: '28'
+  type: 1000base-t
+  mgmt_only: false
+- name: '29'
+  type: 1000base-t
+  mgmt_only: false
+- name: '30'
+  type: 1000base-t
+  mgmt_only: false
+- name: '31'
+  type: 1000base-t
+  mgmt_only: false
+- name: '32'
+  type: 1000base-t
+  mgmt_only: false
+- name: '33'
+  type: 1000base-t
+  mgmt_only: false
+- name: '34'
+  type: 1000base-t
+  mgmt_only: false
+- name: '35'
+  type: 1000base-t
+  mgmt_only: false
+- name: '36'
+  type: 1000base-t
+  mgmt_only: false
+- name: '37'
+  type: 1000base-t
+  mgmt_only: false
+- name: '38'
+  type: 1000base-t
+  mgmt_only: false
+- name: '39'
+  type: 1000base-t
+  mgmt_only: false
+- name: '40'
+  type: 1000base-t
+  mgmt_only: false
+- name: '41'
+  type: 1000base-t
+  mgmt_only: false
+- name: '42'
+  type: 1000base-t
+  mgmt_only: false
+- name: '43'
+  type: 1000base-t
+  mgmt_only: false
+- name: '44'
+  type: 1000base-t
+  mgmt_only: false
+- name: '45'
+  type: 1000base-t
+  mgmt_only: false
+- name: '46'
+  type: 1000base-t
+  mgmt_only: false
+- name: '47'
+  type: 1000base-t
+  mgmt_only: false
+- name: '48'
+  type: 1000base-t
+  mgmt_only: false
+- name: '49'
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: '50'
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: '51'
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: '52'
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 8
+slug: unifi-switch-8
+part_number: US-8
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: ''
+  maximum_draw: 12
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 8-150W
+slug: unifi-switch-8-150w
+part_number: US-8-150W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 150
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch 8-60W
+slug: unifi-switch-8-60w
+part_number: US-8-60W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: ''
+  maximum_draw: 12
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch Flex
+slug: unifi-switch-flex
+part_number: USW-Flex
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch Flex Mini
+slug: unifi-switch-flex-mini
+part_number: USW-Flex-Mini
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: 1 (PoE IN)
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch PoE 24-250W
+slug: unifi-switch-poe-24-250w
+part_number: US-24-250W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 250
+  allocated_draw: 30
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch PoE 24-500W
+slug: unifi-switch-poe-24-500w
+part_number: US-24-500W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 500
+  allocated_draw: 30
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch PoE 48-500W
+slug: unifi-switch-poe-48-500w
+part_number: US-48-500W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 500
+  allocated_draw: 64
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-t
+  mgmt_only: false
+- name: '26'
+  type: 1000base-t
+  mgmt_only: false
+- name: '27'
+  type: 1000base-t
+  mgmt_only: false
+- name: '28'
+  type: 1000base-t
+  mgmt_only: false
+- name: '29'
+  type: 1000base-t
+  mgmt_only: false
+- name: '30'
+  type: 1000base-t
+  mgmt_only: false
+- name: '31'
+  type: 1000base-t
+  mgmt_only: false
+- name: '32'
+  type: 1000base-t
+  mgmt_only: false
+- name: '33'
+  type: 1000base-t
+  mgmt_only: false
+- name: '34'
+  type: 1000base-t
+  mgmt_only: false
+- name: '35'
+  type: 1000base-t
+  mgmt_only: false
+- name: '36'
+  type: 1000base-t
+  mgmt_only: false
+- name: '37'
+  type: 1000base-t
+  mgmt_only: false
+- name: '38'
+  type: 1000base-t
+  mgmt_only: false
+- name: '39'
+  type: 1000base-t
+  mgmt_only: false
+- name: '40'
+  type: 1000base-t
+  mgmt_only: false
+- name: '41'
+  type: 1000base-t
+  mgmt_only: false
+- name: '42'
+  type: 1000base-t
+  mgmt_only: false
+- name: '43'
+  type: 1000base-t
+  mgmt_only: false
+- name: '44'
+  type: 1000base-t
+  mgmt_only: false
+- name: '45'
+  type: 1000base-t
+  mgmt_only: false
+- name: '46'
+  type: 1000base-t
+  mgmt_only: false
+- name: '47'
+  type: 1000base-t
+  mgmt_only: false
+- name: '48'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP+1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP+2
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch PoE 48-750W
+slug: unifi-switch-poe-48-750w
+part_number: US-48-750W
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 750
+  allocated_draw: 64
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-t
+  mgmt_only: false
+- name: '26'
+  type: 1000base-t
+  mgmt_only: false
+- name: '27'
+  type: 1000base-t
+  mgmt_only: false
+- name: '28'
+  type: 1000base-t
+  mgmt_only: false
+- name: '29'
+  type: 1000base-t
+  mgmt_only: false
+- name: '30'
+  type: 1000base-t
+  mgmt_only: false
+- name: '31'
+  type: 1000base-t
+  mgmt_only: false
+- name: '32'
+  type: 1000base-t
+  mgmt_only: false
+- name: '33'
+  type: 1000base-t
+  mgmt_only: false
+- name: '34'
+  type: 1000base-t
+  mgmt_only: false
+- name: '35'
+  type: 1000base-t
+  mgmt_only: false
+- name: '36'
+  type: 1000base-t
+  mgmt_only: false
+- name: '37'
+  type: 1000base-t
+  mgmt_only: false
+- name: '38'
+  type: 1000base-t
+  mgmt_only: false
+- name: '39'
+  type: 1000base-t
+  mgmt_only: false
+- name: '40'
+  type: 1000base-t
+  mgmt_only: false
+- name: '41'
+  type: 1000base-t
+  mgmt_only: false
+- name: '42'
+  type: 1000base-t
+  mgmt_only: false
+- name: '43'
+  type: 1000base-t
+  mgmt_only: false
+- name: '44'
+  type: 1000base-t
+  mgmt_only: false
+- name: '45'
+  type: 1000base-t
+  mgmt_only: false
+- name: '46'
+  type: 1000base-t
+  mgmt_only: false
+- name: '47'
+  type: 1000base-t
+  mgmt_only: false
+- name: '48'
+  type: 1000base-t
+  mgmt_only: false
+- name: SFP+1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP1
+  type: 1000base-x-sfp
+  mgmt_only: false
+- name: SFP+2
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: SFP2
+  type: 1000base-x-sfp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch Pro 24 PoE Gen2
+slug: unifi-switch-pro-24-poe-gen2
+part_number: USW-Pro-24-POE
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 450
+  allocated_draw: 50
+- name: RPS
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '26'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch Pro 48 PoE Gen2
+slug: unifi-switch-pro-48-poe-gen2
+part_number: USW-Pro-48-POE
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 660
+  allocated_draw: 60
+- name: RPS
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 1000base-t
+  mgmt_only: false
+- name: '3'
+  type: 1000base-t
+  mgmt_only: false
+- name: '4'
+  type: 1000base-t
+  mgmt_only: false
+- name: '5'
+  type: 1000base-t
+  mgmt_only: false
+- name: '6'
+  type: 1000base-t
+  mgmt_only: false
+- name: '7'
+  type: 1000base-t
+  mgmt_only: false
+- name: '8'
+  type: 1000base-t
+  mgmt_only: false
+- name: '9'
+  type: 1000base-t
+  mgmt_only: false
+- name: '10'
+  type: 1000base-t
+  mgmt_only: false
+- name: '11'
+  type: 1000base-t
+  mgmt_only: false
+- name: '12'
+  type: 1000base-t
+  mgmt_only: false
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+- name: '25'
+  type: 1000base-t
+  mgmt_only: false
+- name: '26'
+  type: 1000base-t
+  mgmt_only: false
+- name: '27'
+  type: 1000base-t
+  mgmt_only: false
+- name: '28'
+  type: 1000base-t
+  mgmt_only: false
+- name: '29'
+  type: 1000base-t
+  mgmt_only: false
+- name: '30'
+  type: 1000base-t
+  mgmt_only: false
+- name: '31'
+  type: 1000base-t
+  mgmt_only: false
+- name: '32'
+  type: 1000base-t
+  mgmt_only: false
+- name: '33'
+  type: 1000base-t
+  mgmt_only: false
+- name: '34'
+  type: 1000base-t
+  mgmt_only: false
+- name: '35'
+  type: 1000base-t
+  mgmt_only: false
+- name: '36'
+  type: 1000base-t
+  mgmt_only: false
+- name: '37'
+  type: 1000base-t
+  mgmt_only: false
+- name: '38'
+  type: 1000base-t
+  mgmt_only: false
+- name: '39'
+  type: 1000base-t
+  mgmt_only: false
+- name: '40'
+  type: 1000base-t
+  mgmt_only: false
+- name: '41'
+  type: 1000base-t
+  mgmt_only: false
+- name: '42'
+  type: 1000base-t
+  mgmt_only: false
+- name: '43'
+  type: 1000base-t
+  mgmt_only: false
+- name: '44'
+  type: 1000base-t
+  mgmt_only: false
+- name: '45'
+  type: 1000base-t
+  mgmt_only: false
+- name: '46'
+  type: 1000base-t
+  mgmt_only: false
+- name: '47'
+  type: 1000base-t
+  mgmt_only: false
+- name: '48'
+  type: 1000base-t
+  mgmt_only: false
+- name: '49'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '50'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '51'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '52'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Switch XG 6PoE
+slug: unifi-switch-xg-6poe
+part_number: US-XG-6POE
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+interfaces:
+- name: '1'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '3'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '4'
+  type: 10gbase-t
+  mgmt_only: false
+- name: '5'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: '6'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3
+slug: unifi-video-camera-g3
+part_number: UVC-G3
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 AF
+slug: unifi-video-camera-g3-af
+part_number: UVC-G3-AF
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 Bullet
+slug: unifi-video-camera-g3-bullet
+part_number: UVC-G3-BULLET
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 Dome
+slug: unifi-video-camera-g3-dome
+part_number: UVC-G3-DOME
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 FLEX
+slug: unifi-video-camera-g3-flex
+part_number: UVC-G3-FLEX
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 Micro
+slug: unifi-video-camera-g3-micro
+part_number: UVC-G3-MICRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G3 PRO
+slug: unifi-video-camera-g3-pro
+part_number: UVC-G3-PRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 100base-tx
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G4 Bullet
+slug: unifi-video-camera-g4-bullet
+part_number: UVC-G4-BULLET
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+---
+manufacturer: Ubiquiti Inc
+model: UniFi Video Camera G4 PRO
+slug: unifi-video-camera-g4-pro
+part_number: UVC-G4-PRO
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi WiFi BaseStation XG
+slug: unifi-wifi-basestation-xg
+part_number: UWB-XG
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi WiFi BaseStation XG Black
+slug: unifi-wifi-basestation-xg-black
+part_number: UWB-XG-BK
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
+  mgmt_only: false
+- name: '2'
+  type: 10gbase-t
+  mgmt_only: false
+---
+manufacturer: Ubiquiti Inc
+model: UniFi XG Server
+slug: unifi-xg-server
+part_number: UAS-XG
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+console-ports:
+- name: USB1 (3.0 back)
+  type: usb-a
+- name: USB2 (3.0 back)
+  type: usb-a
+- name: USB3 (2.0 front)
+  type: usb-a
+- name: USB4 (2.0 front)
+  type: usb-a
+power-ports:
+- name: PS
+  type: iec-60320-c14
+  maximum_draw: 150
+  allocated_draw: 60
+interfaces:
+- name: IPMI
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN1
+  type: 10gbase-t
+  mgmt_only: false
+- name: LAN2
+  type: 10gbase-t
+  mgmt_only: false
