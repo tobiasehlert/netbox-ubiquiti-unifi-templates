@@ -27,7 +27,7 @@ Go to *Menu > Devices > Manufacturers* and press **Import**
 Paste in following input:
 ```
 name,slug
-Ubiqiti,ubiqiti
+Ubiquiti,ubiquiti
 ```
 
 Press **Submit**
